@@ -3,6 +3,8 @@ going on from [Ducklinks](https://github.com/kaichanvong/ducklinks), adds the us
 
 Raspberrypuree links the RaspberryMark from a user '@' ("blowing a raspberry") to get their Username and creates a Userlink (in Markdown form).
 
+`@kaichanvong` could be @[kaichanvong](https://github.com/kaichanvong) `# @[kaichanvong](https://github.com/kaichanvong)` 
+
 ## Why Tests? 
 Should be fairly self-explanatory. If there are no tests, it's really scary!
 
