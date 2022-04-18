@@ -14,4 +14,4 @@ Should be fairly self-explanatory. If there are no tests, it's really scary!
 I know. I don't really know. But I know where you're going with that. If you want, hire me. Also, the author of Ducklinks is awesome. 
 
 ## I didnt get the whole markdown thing...
-I know. Readme is difficult. It's in the source. I'm quite into moving away from HTML now and then. Same in certain video games. It can be nicer. Turn off that setting in that video game. For goodness sayings!
+I know. Readme is difficult. It's in perfection/editing. I'm quite into moving away from HTML now and then. Same in certain video games. It can be nicer. Turn off that setting in that video game. For goodness sayings!
