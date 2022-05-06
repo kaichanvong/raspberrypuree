@@ -3,23 +3,23 @@ require_relative "../raspberrypuree.rb"
 
 class TestRaspberrypuree < Minitest::Test
 	def setup
-		@puree = Raspberrypuree.new({site_url:'https://github.com', text: ' here is a example from the user @KittyKai about his user info of copied text '})
+		@puree = Raspberrypuree.new({site_url:'https://github.com', text: ' here is a example from the user @kaichanvong about his user info of copied text '})
 	end
 
 	def test_markdown
-		assert_equal('[@KittyKai](https://github.com/kittykai)', @puree.markdown)
+		assert_equal('[@kaichanvong](https://github.com/kaichanvong)', @puree.markdown)
 	end
 
 	def test_uri
-		assert_equal('https://github.com/kittykai', @puree.uri)
+		assert_equal('https://github.com/kaichanvong', @puree.uri)
 	end
 
 	def test_username
-		assert_equal('KittyKai', @puree.username)
+		assert_equal('kaichanvong', @puree.username)
 	end
 
-	def test_nickname
-		assert_equal('Kitty', @puree.nickname)
+	def test_firstname
+		assert_equal('kai', @puree.nickname) # I mean there is CSS property and value: `text-transform: capitalize`;
 	end
 
 end
