@@ -2,7 +2,6 @@ require "minitest/autorun"
 require_relative "../raspberrypuree.rb"
 
 class TestRaspberrypuree < Minitest::Test
-
 	def setup
 		@puree = Raspberrypuree.new({site_url:'https://github.com', text: ' here is a example from the user @KittyKai about his user info of copied text '})
 	end
@@ -17,6 +16,10 @@ class TestRaspberrypuree < Minitest::Test
 
 	def test_username
 		assert_equal('KittyKai', @puree.username)
+	end
+
+	def test_nickname
+		assert_equal('Kitty', @puree.nickname)
 	end
 
 end
