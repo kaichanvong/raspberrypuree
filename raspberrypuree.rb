@@ -16,7 +16,7 @@ class Raspberrypuree
 		nick_names = possible_nicknames_known.select do |nickname|
 			nickname if username.include?(nickname) # && nickname.length > nickname_length
 		end
-		nick_names.compact.last[0] + nick_names.compact.last[1..-1]
+		nick_names.compact.last
 	end
 
 	def markdown
