@@ -4,20 +4,20 @@ require_relative "../raspberrypuree.rb"
 class TestRaspberrypuree < Minitest::Test
 	def setup
 		params = { site_url:'https://github.com', 
-			   text: 'here is a example from the user @kaicvong about his user info of copied text' }
+			   text: 'here is a example from the user @kaichanvong about his user info of copied text' }
 		@puree = Raspberrypuree.new(params)
 	end
 
 	def test_markdown
-		assert_equal('[@kaicvong](https://github.com/kaicvong)', @puree.markdown)
+		assert_equal('[@kaichanvong](https://github.com/kaichanvong)', @puree.markdown)
 	end
 
 	def test_uri
-		assert_equal('https://github.com/kaicvong', @puree.uri)
+		assert_equal('https://github.com/kaichanvong', @puree.uri)
 	end
 
 	def test_username
-		assert_equal('kaicvong', @puree.username)
+		assert_equal('kaichanvong', @puree.username)
 	end
 
 	def test_firstname
