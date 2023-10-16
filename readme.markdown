@@ -3,7 +3,7 @@ going on from hearing of ducklinks ("a super-simple way of centrally managing th
 
 Raspberrypuree links the RaspberryMark from a user '@' ("blowing a raspberry") to get their Username and creates a Userlink (in Markdown form).
 
-`@kaicvong` could be @[kaicvong](https://github.com/kaicvong) `# @[kaicvong](https://github.com/kaicvong)` 
+`@kaichanvong` could be @[kaichanvong](https://github.com/kaichanvong) `# @[kaichanvong](https://github.com/kaichanvong)` 
 
 look, this steps over [Digital Identity](http://www.kaivong.com/#digital-identity)
 
