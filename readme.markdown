@@ -11,7 +11,7 @@ look, this steps over [Digital Identity](http://www.kaivong.com/#digital-identit
 Should be fairly self-explanatory. Without TDD, it can be really scary!
 
 ## Huh? Ducklinks
-I know. I don't really know. But I know where you're going with that. A super-simple way of centrally managing the format of URLs.
+I kinda, don't know; help keep the format of different links;["super-simple way of centrally managing the format of URLs"](https://github.com/henrygarner/ducklink).
 
 ## I didnt get the whole markdown thing...
 I know. Readme, markdown: editing previewing away from HTML. Moving away from HTML now and then. Same in certain video games, board games etc. It can be helpful? Turning off a specific setting in a video game can be helpful.
