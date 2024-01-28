@@ -3,7 +3,7 @@ going on from hearing of ducklinks ("a super-simple way of centrally managing th
 
 ## example
 `@kaichanvong` could be @[kaichanvong](https://github.com/kaichanvong) `# @[kaichanvong](https://github.com/kaichanvong)` 
-This steps over to [Digital Identity](http://www.kaivong.com/#digital-identity); where each of these gets the RaspberryPuree, UserLink.
+This steps over to [Digital Identity](https://kaichanvong.github.io/#digitalIdentityContent); where each of these gets the RaspberryPuree, UserLink.
 
 ## Why Tests? 
 Should be fairly self-explanatory. Without having done TDD, it can be really scary!
