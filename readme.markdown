@@ -1,9 +1,9 @@
-# RaspberryPuree/UserLink
-going on from hearing of ducklinks ("a super-simple way of centrally managing the format of URLs"), **RaspberryPuree** adds the user markdown link; raspberrypuree links up to the RaspberryMark from the '@' ("blowing a raspberry"); giving back the UserName and creating a UserLink (in .Markdown format).
+# RaspberryPuree/UsernameLink
+going on from hearing of ducklinks ("a super-simple way of centrally managing the format of URLs"), **RaspberryPuree** adds the user markdown link; raspberrypuree links up to the RaspberryMark from the '@' ("blowing a raspberry"); giving back the UserName and creating a UsernameLink (in .Markdown format).
 
 ## example
 `@kaichanvong` could be @[kaichanvong](https://github.com/kaichanvong) `# @[kaichanvong](https://github.com/kaichanvong)` 
-This steps over to [Digital Identity](https://kaichanvong.github.io/#digitalIdentityContent); where each of these gets the RaspberryPuree, UserLink.
+This steps over to [Digital Identity](https://kaichanvong.github.io/#digitalIdentityContent); where each of these gets the RaspberryPuree, UsernameLink.
 
 ## Why Tests? 
 Should be fairly self-explanatory. Without having done TDD, it can be really scary!
