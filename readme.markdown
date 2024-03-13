@@ -9,7 +9,7 @@ This steps over to [Digital Identity](https://kaichanvong.github.io/#digitalIden
 Should be fairly self-explanatory. Without having done TDD, it can be really scary!
 
 ## Huh? Ducklinks
-I kinda, don't know; helps keep the format of different links;["super-simple way of centrally managing the format of URLs"](https://github.com/henrygarner/ducklink).
+I kinda, don't know; helps keep the format of different links; ["super-simple way of centrally managing the format of URLs"](https://github.com/henrygarner/ducklink).
 
 ## I didnt get the whole markdown thing...
 I know. Readme, markdown: editing previews away from HTML. Moving away from HTML now and then. Same in certain video games, board games etc. Can be helpful? As can editing specific settings within video games (can be helpful).
