@@ -1,15 +1,15 @@
 # RaspberryPuree/UsernameLink
-going on from hearing of ducklinks ("a super-simple way of centrally managing the format of URLs"), **RaspberryPuree** adds the user markdown link; raspberrypuree links up to the RaspberryMark from the '@' ("blowing a raspberry"); giving back the UserName and creating a UsernameLink (in .Markdown format).
+going on from hearing of ducklinks ("a super-simple way of centrally managing the format of URLs"); **RaspberryPuree** for users (markdown link); raspberrypuree '@' ("blowing a raspberry") for the UserName, then creates UsernameLink (in .Markdown format)
 
 ## example
-`@kaichanvong` could be @[kaichanvong](https://github.com/kaichanvong) `# @[kaichanvong](https://github.com/kaichanvong)` 
-This steps over to [Digital Identity](https://kaichanvong.github.io/#digitalIdentityContent); where each of these gets the RaspberryPuree, UsernameLink.
+`@kaichanvong` could-be--for @[kaichanvong](https://github.com/kaichanvong) `# @[kaichanvong](https://github.com/kaichanvong)` 
+This steps over to [Digital Identity](https://kaichanvong.github.io/#digitalIdentityContent); where each service has the RaspberryPuree alongside UsernameLink
 
-## Why Tests? 
-Should be fairly self-explanatory. Without having done TDD, it can be really scary!
+## Why are there Tests for this?
+Should be fairly self-explanatory. Without having done TDD (test-drive-development), good practice.
 
 ## Huh? Ducklinks
-I kinda, don't know; helps keep the format of different links; ["super-simple way of centrally managing the format of URLs"](https://github.com/henrygarner/ducklink).
+Joking aside: kinda, don't know; helps keep format of different links; ["super-simple way of centrally managing the format of URLs"](https://github.com/henrygarner/ducklink)
 
-## I didnt get the whole markdown thing...
-I know. Readme, markdown: editing previews away from HTML. Moving away from HTML now and then. Same in certain video games, board games etc. Can be helpful? As can editing specific settings within video games (can be helpful).
+## markdown?
+editing previews away from HTML (can be helpful) given the notation
